@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-dev",
-    "address": "http://1.2.3.4"
+    "address": "https://DF23B6BD50737D777E9DCCA3D2773A88.gr7.us-east-1.eks.amazonaws.com"
   }
 }
